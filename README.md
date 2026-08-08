@@ -18,7 +18,7 @@ This repository contains my beginner HTML practice projects as I learn frontend 
 - Images
 - Hyperlinks
 - Forms
-- Semantic HTML
+  
 
 
 **Goal**
